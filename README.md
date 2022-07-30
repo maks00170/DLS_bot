@@ -1,7 +1,7 @@
 # DLS_bot
 Итоговый проект Deep learning school 
 
-Нейронная сеть https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
+Нейронная сеть, уже обучена https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
 
 Пример работы:
 ![Снимок](https://user-images.githubusercontent.com/92984374/181872616-d42d0522-3cfb-4fea-adcb-0e5bc8b42937.PNG)
